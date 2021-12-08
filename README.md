@@ -12,4 +12,5 @@ Designed for smaller screens, like those for the Raspberry Pi.
 In the `extras` folder, you will find a script for setting display properties and launching the browser. You may configure it to launch upon system startup if you'd like.
 
 ## Screenshots
-[screenshots here]
+<img src="images/unknown.png">
+<img src="images/IMG_20211205_194823425.jpg">
