@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Browser
+Comment=Wow
+Exec=lxterminal --working-directory=/home/pi/christmas-countdown/extras -e ./start.sh
+NotShowIn=GNOME;KDE;XFCE;wlroots;
